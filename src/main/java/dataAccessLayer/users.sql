@@ -13,4 +13,13 @@ CREATE TABLE Users (
     usertype VARCHAR(50) NOT NULL
 );
 
+CREATE TABLE Inventory (
+    itemid INT PRIMARY KEY AUTO_INCREMENT,
+    itemname VARCHAR(255) NOT NULL,
+    quantity INT NOT NULL,
+    price DOUBLE NOT NULL,
+    isItemSurplus BOOLEAN NOT NULL
+);
+
+
 select * from users;

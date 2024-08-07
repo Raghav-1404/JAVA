@@ -35,7 +35,7 @@ public class InventoryDaoImpl implements InventoryDao {
 		            double price = rs.getDouble("price");
 		            boolean isSPlus =rs.getBoolean("isItemSurplus");
 		            // Assuming you have a constructor in InventoryDTO to set these values
-		            inventoryItem = new InventoryDTO(id, itemName, quantity, price, isSPlus);
+		            inventoryItem = new InventoryDTO(itemName, id, price);
 		        }
 		    } catch (SQLException | IOException e) {
 		        e.printStackTrace();
