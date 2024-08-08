@@ -1,13 +1,14 @@
 package transferObject;
 
-public class ConsumerDTO extends UserDTO{
+public class ConsumerDTO {
+    private String name;
 
-	
-    public ConsumerDTO(int userId, String name, String email, UserType userType) {
-        super(name, email, userType);
-    }
-    public ConsumerDTO() {
+    // Getters and Setters
+    public String getName() {
+        return name;
     }
 
-	
+    public void setName(String name) {
+        this.name = name;
+    }
 }
