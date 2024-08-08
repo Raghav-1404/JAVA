@@ -11,4 +11,14 @@ public interface FoodItemDAO {
     void deleteFoodItem(int id);
 
     public void updateFoodItemQuantity(int id, int newQuantity);
+
+    public void setId(int aInt);
+
+    public void setName(String string);
+
+    public void setPrice(double aDouble);
+
+    public void setQuantity(int aInt);
+
+    public void add(FoodItemDAO foodItem);
 }
