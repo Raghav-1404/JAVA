@@ -9,7 +9,7 @@ public class DataSource {
     private static Connection connection = null;
     private static final String SERVER_URL = "jdbc:mysql://localhost:3306/FoodWasteReduction";
     private static final String USER = "root";
-    private static final String PASSWORD = "Raghav37";
+    private static final String PASSWORD = "Jatin@16";
     private static final String DRIVER_CLASS = "com.mysql.cj.jdbc.Driver";
 
     // Private constructor to prevent instantiation
