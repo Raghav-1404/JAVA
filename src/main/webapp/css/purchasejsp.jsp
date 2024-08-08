@@ -2,6 +2,8 @@
 <html>
 <head>
     <title>Purchase Items</title>
+    <link rel="stylesheet" type="text/css" href="styles_2.css">
+
 </head>
 <body>
     <h1>Purchase Items</h1>
