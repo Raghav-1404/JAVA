@@ -1,6 +1,5 @@
 package transferObject;
 
-import notificationSystem.NotificationService;
 
 public class UserDTO {
     private int userId;
@@ -9,7 +8,6 @@ public class UserDTO {
     private String password;
     private UserType userType;
     private boolean isSubscribed;
-    private NotificationService notificationType;
 
     // Constructor
     public UserDTO(String name, String email,String password, UserType userType, boolean isSubscribed) {
@@ -79,12 +77,5 @@ public class UserDTO {
 		this.isSubscribed = isSubscribed;
 	}
 
-	public NotificationService getNotificationType() {
-		return notificationType;
-	}
-
-	public void setNotificationType(NotificationService notificationType) {
-		this.notificationType = notificationType;
-	}
     
 }
