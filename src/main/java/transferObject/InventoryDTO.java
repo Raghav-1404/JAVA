@@ -12,7 +12,7 @@ public class InventoryDTO {
     
     
 
-    public InventoryDTO(int itemId, String name, int quantity, double price,boolean isSurplus) {
+    public InventoryDTO(String name, int itemId, double price) {
         this.itemId = itemId;
         this.itemName = name;
         this.quantity = quantity;

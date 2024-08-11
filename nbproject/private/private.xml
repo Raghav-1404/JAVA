@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/eclipse%20workspace/JavaProject/src/main/java/dataAccessImpl/UserDaoImpl.java</file>
+            <file>file:/C:/eclipse%20workspace/JavaProject/src/main/java/dataAccessLayer/DataSource.java</file>
+            <file>file:/C:/eclipse%20workspace/JavaProject/src/main/java/dataAccessImpl/RetailerDaoImpl.java</file>
+            <file>file:/C:/eclipse%20workspace/JavaProject/src/main/java/dataAccessImpl/InventoryDaoImpl.java</file>
+            <file>file:/C:/eclipse%20workspace/JavaProject/src/main/java/buisnessLayer/UserBuisnessLogic.java</file>
+            <file>file:/C:/eclipse%20workspace/JavaProject/src/main/java/dataAccessImpl/CharitableOrganizationDaoImpl.java</file>
+            <file>file:/C:/eclipse%20workspace/JavaProject/src/main/java/dataAccessImpl/ConsumerDaoImpl.java</file>
+            <file>file:/C:/eclipse%20workspace/JavaProject/src/main/java/transferObject/UserDTO.java</file>
+            <file>file:/C:/eclipse%20workspace/JavaProject/src/main/java/serverlets/AddItemServlet.java</file>
+            <file>file:/C:/eclipse%20workspace/JavaProject/src/main/java/serverlets/RetailerServlet.java</file>
+            <file>file:/C:/eclipse%20workspace/JavaProject/.git/config</file>
+            <file>file:/C:/eclipse%20workspace/JavaProject/src/main/java/dataAccessLayer/users.sql</file>
+            <file>file:/C:/eclipse%20workspace/JavaProject/src/main/java/transferObject/InventoryDTO.java</file>
+            <file>file:/C:/eclipse%20workspace/JavaProject/src/main/webapp/css/styles2.css</file>
+        </group>
+    </open-files>
+</project-private>
